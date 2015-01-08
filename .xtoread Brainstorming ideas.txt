@@ -1,0 +1,26 @@
+Analyze the use of the word "sale", "liquidation", "blowout", and any sort of words that would indicate capital gains through advratising. By analysing the adveratisements in ottawa from the 1880 to more modern time. And see the extent of capitalizing and americanisation of stores in the time.
+
+Could use Unity to do some cool 3D scripts
+
+really want to develop some software to make this easier for others in the future,
+
+tool needs to be right for the job, 
+
+REQUIRED
+
+Questions
+Sources
+Analysis
+Audience
+Product
+
+Realistic hours
+
+
+
+**IDEA**
+
+Have a 3D enviroment that has all the advratisements as 2D sprites, able to zoom in and out and look at each one. Could use occulus to give the concept of paralax with the distance of the advratisements. Use a scroll wheel to pass month and keys to pass by year. see the extent of the expansion of sales and capitalism in canada.
+
+**IDEA**
+Search through newspapers for corrections and use the years to draw a concusion that perhaps newspaper is getting less accurate.
