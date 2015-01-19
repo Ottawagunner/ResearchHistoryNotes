@@ -1,0 +1,51 @@
+Using Sublime Text 3 for Note taking and Writing Markdown
+----
+Matthew Taylor
+
+I was first introduced to Sublime Text was during my second year of computer science, It was a huge improvement from the Emacs or Vim. It was only until recently I discovered the immense power that Sublime Text has. This is a simple tutorial to set up your Sublime Text 3 for Markdown and Note Taking. The three items I will be going over are: Package Control, PlainNote, and Markdown Editor.
+
+###     To Start
+
+You need to download Sublime Text 3 from their download page. You can choose any version you would like, there are even some portable versions that don't need installs. **THIS TUTORIAL HAS ONLY BEEN TESTED ON WINDOWS 8.** Follow the install and continue to the next step.
+
+###     Package Control
+
+Package control is a addition to Sublime that allows for easy installation and removal of plug-ins. To download follow the easy to follow guide [Here.](https://packagecontrol.io/installation) Follow that and we will have a system to download the rest of the required plug-ins. **Don't forget to restart Sublime**
+
+###     PlainNotes
+
+PlainNotes is a add on that creates a simple note taking layout. All these notes are stored as .note but can be opened with .txt. To download open up Sublime Text and go to _Preferences>PackageControl_. Type _Install Package_. Hit enter. Then type in _PlainNotes_ and enter. In the bottom left you can see the software installing PlainNotes. **Restart Sublime**
+
+####    Configuring PlainNotes
+
+PlainNotes by default saves your notes to your Dropbox. We want to be able to change where the files are saved. To do this we need to modify the configuration file. Go to _Preferences > Package Setting > PlainNotes > Settings Default_ Once that opens we want to select all and copy and open _Preferences > Package Setting > PlainNotes > Settings User._ Paste everything into this document and modify the root line to look like this. 
+
+_"root": "~/Documents/GitHub/REPOHERE/PlainNotes",_
+
+Where the area in between the quotes is the location of the save folder. Were REPOHERE is the name of the repo folder.
+
+####    Using PlainNotes
+
+To make a new note you want to press the _Windows Key+F4_ and enter a title when prompted, when you enter it will create a new note.
+
+To open a list of notes press _Ctrl+F4_, you can see all the notes by the title.
+
+###     Markdown Editor
+
+Markdown Editor is a add on that lets you write Markdown documents in a nice environment. To download open up Sublime Text and go to _Preferences>PackageControl_. Type _Install Package_. Hit enter. Then type in _Markdown Editing_ and enter. In the bottom left you can see the software installing PlainNotes. **Restart Sublime**
+
+You will also need to download the preview system. To download open up Sublime Text and go to _Preferences>PackageControl_. Type _Install Package_. Hit enter. Then type in _Markdown Preview_ and enter. In the bottom left you can see the software installing PlainNotes. **Restart Sublime**
+
+#### Using Markdown
+
+To make a new document go to _File>New Document_ once open go to _View>Syntax>MarkdownEditing>Markdown_ The page will change to a white page and now you're ready to write.
+
+To preview you simply press _Alt+M_ and a preview will show up.
+
+### Conclusion
+
+Sublime is an extremely flexible editor with a plethora of plug ins for any sort of tasks. For a programing editor it has a built in spellcheck feature(F8), it has on the fly auto saves, it has a preference file. It can do many things other word processors can't such as editing multiple lines. It is very versatile system that can be used for almost anything and it avoids the issues of downloading multiple programs. 
+
+
+
+
