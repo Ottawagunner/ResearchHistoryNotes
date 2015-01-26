@@ -1,3 +1,0 @@
-Downloaded a occulus rift development kit for unity. I'll give it a try.
-
-Grabbed a open github tutorial with 
