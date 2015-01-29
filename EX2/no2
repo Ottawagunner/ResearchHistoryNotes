@@ -1,0 +1,19 @@
+Working with Outwit Hub
+----
+
+When I first heard of Outwit Hub i thought it was just a system to look at a webpages source, something any webbrowser can do. But after using it for a bit it seems like it has some powerful tools.
+
+***Essentially...***
+
+It looks for tag's and takes the data inside them, and produces a 2_by_N spreadsheet with a tag refering to data. It's a great too for when the data is easy to access but tedious to collect. 
+
+Working with BASH Scripts
+----  
+
+This is more my style, using BASH commands to collect data. Reading through the command it is relitively simple. It downloads the JSON based on each key in the search. Its not as clean as the HTML scraper as it does not store it as a .CSV it is stored in a single document seperated by JSON objects.
+
+Working with WGET
+----
+This was the best i found as it would place everything inside its own file and was easy to read. It was also nice that it only took one line of terminal to run it.
+
+By far the best method, although i am trying to combine this in a bash command to perform some interesting gets.
