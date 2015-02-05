@@ -1,0 +1,11 @@
+<Placename>The Park</Placemane> has a lovely <geog>duck pond</geog>
+
+Our <OCCUPATION>butcher</OCCUPATION> <EVENT>sold us</EVENT> some rotten meat <TIME>yesterday <TIME>afternoon</TIME>
+
+<Person id ="Dr.Havingsbury">Dr.Havingsbury</Person> goes to <place><event>church</event></place> every <Time>sunday</Time>
+
+<Person>Mrs. Wellington</Person>, who was wearing her <Item>Wellington boots</Item>, accompanied me on a trip, where we saw a <Item>statue of the <Person>Duke of Wellington</Person></Item> in <geog>Wellington, New Zealand</geog> near the <Place>Wellington's Boot public house</Place>- where I hear they serve excellent beef Wellington for lunch. I do adore <Person>Mrs. Wellington</Person>.
+
+<!---
+THis is a comment out
+--->

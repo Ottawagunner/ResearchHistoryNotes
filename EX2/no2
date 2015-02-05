@@ -14,6 +14,6 @@ This is more my style, using BASH commands to collect data. Reading through the 
 
 Working with WGET
 ----
-This was the best i found as it would place everything inside its own file and was easy to read. It was also nice that it only took one line of terminal to run it.
+This was the best I found as it would place everything inside its own file and was easy to read. It was also nice that it only took one line of terminal to run it.
 
-By far the best method, although i am trying to combine this in a bash command to perform some interesting gets.
+By far the best method, although I am trying to combine this in a bash command to perform some interesting gets.
